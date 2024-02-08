@@ -11,4 +11,4 @@ root.render(
     <App />   
     {/* change the above line - for interchaning between App and AppClass */}
   </React.StrictMode>
-);
+);  
